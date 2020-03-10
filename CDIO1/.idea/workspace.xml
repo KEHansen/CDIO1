@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85aac859-ab74-41cd-9f3d-50b1e0fa6ebc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Logic/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/DBController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Logic/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logic/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIO1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CDIO1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Data/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logic/ControlPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Logic/ControlPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logic/IUserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Logic/IUserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logic/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Logic/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logic/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Logic/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Presentation/DBTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/DBTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +39,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583830755722</updated>
-      <workItem from="1583830756985" duration="6614000" />
+      <workItem from="1583830756985" duration="10265000" />
     </task>
     <servers />
   </component>
@@ -51,9 +70,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="427" y="328" key="#Project_Structure" timestamp="1583852419778">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="427" y="328" key="#Project_Structure/0.0.2560.1400/-1680.593.1680.1010@0.0.2560.1400" timestamp="1583852419778" />
     <state x="1085" y="402" key="#com.intellij.ide.util.MemberChooser" timestamp="1583843248131">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1085" y="402" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/-1680.593.1680.1010@0.0.2560.1400" timestamp="1583843248131" />
+    <state x="910" y="390" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583852560099">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="910" y="390" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.2560.1400/-1680.593.1680.1010@0.0.2560.1400" timestamp="1583852560099" />
+    <state x="760" y="275" key="SettingsEditor" timestamp="1583852538939">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="275" key="SettingsEditor/0.0.2560.1400/-1680.593.1680.1010@0.0.2560.1400" timestamp="1583852538939" />
+    <state x="539" y="563" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583852411738">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="539" y="563" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2560.1400/-1680.593.1680.1010@0.0.2560.1400" timestamp="1583852411738" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1583854540184">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1680.593.1680.1010@0.0.2560.1400" timestamp="1583854540184" />
   </component>
 </project>

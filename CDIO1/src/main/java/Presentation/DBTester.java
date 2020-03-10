@@ -1,3 +1,4 @@
+/*
 package Presentation;
 
 
@@ -30,7 +31,7 @@ public class DBTester {
 		} catch (DALException e1) {
 			System.out.println("User already existed - OK");
 		}
-	
+
 		newUser.setUserId(1);
 		newUser.setUserName("2ND user");
 		try {
@@ -47,18 +48,18 @@ public class DBTester {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
+
 		printUsers(iDAO);
-		
+
 		try {
 			iDAO.deleteUser(1);
 		} catch (DALException e) {
 			e.printStackTrace();
 		}
-		
+
 		printUsers(iDAO);
-		
-		
+
+
 	}
 
 	private static void printUsers(IUserDAO iDAO) {
@@ -75,3 +76,4 @@ public class DBTester {
 	}
 
 }
+*/
