@@ -1,8 +1,9 @@
 package Data;
 
+import java.util.List;
 import java.util.Scanner;
 
-public class Menu {
+public class Menu implements Logic.IUserDAO {
     public void beginMenu() {
         // Menu
         // List users
@@ -49,5 +50,25 @@ public class Menu {
                     break;
             }
         }
+    }
+
+    public UserDTO getUser(int userId) throws DALException {
+        return null;
+    }
+
+    public List<UserDTO> getUserList() throws DALException {
+        return null;
+    }
+
+    public void createUser(UserDTO user) throws DALException {
+
+    }
+
+    public void updateUser(UserDTO user) throws DALException {
+
+    }
+
+    public void deleteUser(int userId) throws DALException {
+
     }
 }

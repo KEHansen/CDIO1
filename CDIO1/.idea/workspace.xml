@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85aac859-ab74-41cd-9f3d-50b1e0fa6ebc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Data/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Data/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Logic/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Logic/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Logic/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Data/Menu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583830755722</updated>
       <workItem from="1583830756985" duration="10869000" />
-      <workItem from="1583914466338" duration="1022000" />
+      <workItem from="1583914466338" duration="2750000" />
     </task>
     <servers />
   </component>
@@ -65,14 +64,18 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="427" y="328" key="#Project_Structure/0.0.2560.1400/-1680.593.1680.1010@0.0.2560.1400" timestamp="1583852419778" />
-    <state x="1085" y="402" key="#com.intellij.ide.util.MemberChooser" timestamp="1583916029270">
+    <state x="1010" y="456" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583917747270">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1085" y="402" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/-1680.593.1680.1010@0.0.2560.1400" timestamp="1583916029270" />
-    <state x="910" y="390" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583852560099">
+    <state x="1010" y="456" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.2560.1400/-1680.593.1680.1010@0.0.2560.1400" timestamp="1583917747270" />
+    <state x="1085" y="402" key="#com.intellij.ide.util.MemberChooser" timestamp="1583917760101">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="910" y="390" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.2560.1400/-1680.593.1680.1010@0.0.2560.1400" timestamp="1583852560099" />
+    <state x="1085" y="402" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/-1680.593.1680.1010@0.0.2560.1400" timestamp="1583917760101" />
+    <state x="910" y="390" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583917329198">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="910" y="390" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.2560.1400/-1680.593.1680.1010@0.0.2560.1400" timestamp="1583917329198" />
     <state x="760" y="275" key="SettingsEditor" timestamp="1583852538939">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
