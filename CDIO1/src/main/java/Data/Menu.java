@@ -1,4 +1,4 @@
-package Logic;
+package Data;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class Menu {
         // Change name
         // Change password on user
         Scanner scanMenuInput = new Scanner(System.in);
-        String ans = "";
+        int ans = 0;
 
         while(true) {
             System.out.println("User Administration \n\n" +
@@ -22,29 +22,30 @@ public class Menu {
                     "Enter 3 to change a users name \n" +
                     "Enter 4 to change a users password \n" +
                     "Enter 5 to change a users Role \n" +
+                    "Enter 6 to delete a user \n" +
                     "Enter q/quit to exit!");
-            ans = scanMenuInput.nextLine();
-
-            if(ans == "q" || ans.toLowerCase() == "quit") {
-                break;
-            }
+            ans = scanMenuInput.nextInt();
 
             switch (ans) {
-                case "1":
+                case 1:
                     // List all users
                     break;
-                case "2":
+                case 2:
                     // Create a new user
                     break;
-                case "3":
+                case 3:
                     // Change a users name
                     // Select user by CPR number, ask for CPR number
                     break;
-                case "4":
+                case 4:
                     // Change a users password
                     break;
-                case "5":
+                case 5:
                     // Change a users Role?
+                    break;
+                default:
+                    // exit
+                    System.exit(1);
                     break;
             }
         }
